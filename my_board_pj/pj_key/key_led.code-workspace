@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"socket.h": "c",
+			"file.h": "c",
+			"fcntl.h": "c",
+			"types.h": "c",
+			"unistd.h": "c",
+			"wait.h": "c",
+			"include.h": "c",
+			"bsp_led.h": "c"
+		}
+	}
+}
